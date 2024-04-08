@@ -52,3 +52,7 @@ If using Windows, you will need `soundfile` as the backend. For Linux, `sox_io` 
 
 ```bash
 sudo apt install libsox-dev
+```
+
+Other suggestions for a error message `RuntimeError: Couldn't find appropriate backend to handle uri dataset/data/RAVDEES/Actor_21/03-01-06-01-02-01-21.wav and format None.` you can lookup the following link:
+- [cannot import torch audio ' No audio backend is available.'](https://stackoverflow.com/questions/62543843/cannot-import-torch-audio-no-audio-backend-is-available)

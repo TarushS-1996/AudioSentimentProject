@@ -2,3 +2,6 @@
 /dataset/data/*
 *.onnx
 *.pkl
+*.pth
+*.zip
+*.npy

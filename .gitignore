@@ -1,2 +1,4 @@
 *.wav
-
+/dataset/data/*
+*.onnx
+*.pkl
